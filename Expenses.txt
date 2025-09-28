@@ -1,0 +1,4 @@
+Laptop: Ksh36000
+Tv: Ksh25000
+Phone: Ksh20000
+Headphones: Ksh3000
