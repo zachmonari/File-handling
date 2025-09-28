@@ -5,4 +5,7 @@ while True:
     amount=input("Enter the amount spent on the item: ")
     with open("Expenses.txt", "a") as file:
         file.write(item+": Ksh" +amount+"\n")
-print("All expenses saved!")
+
+with open("Expenses.txt", "r") as file:
+    print("Here are all your expenses saved!")
+    print(file.read())

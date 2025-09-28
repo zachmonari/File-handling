@@ -2,3 +2,5 @@ Laptop: Ksh36000
 Tv: Ksh25000
 Phone: Ksh20000
 Headphones: Ksh3000
+Jacket: Ksh1500
+Hood: Ksh1500
